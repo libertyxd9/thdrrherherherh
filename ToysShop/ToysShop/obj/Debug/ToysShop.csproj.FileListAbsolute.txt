@@ -1,0 +1,12 @@
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.csproj.AssemblyReference.cache
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.Form1.resources
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.Properties.Resources.resources
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.csproj.GenerateResource.cache
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.csproj.CoreCompileInputs.cache
+C:\Users\zelen\source\repos\ToysShop\ToysShop\bin\Debug\ToysShop.exe.config
+C:\Users\zelen\source\repos\ToysShop\ToysShop\bin\Debug\ToysShop.exe
+C:\Users\zelen\source\repos\ToysShop\ToysShop\bin\Debug\ToysShop.pdb
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.exe
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.pdb
+C:\Users\zelen\source\repos\ToysShop\ToysShop\obj\Debug\ToysShop.Form2.resources
